@@ -9,7 +9,7 @@
   
   inputs.src-serializetools-v1_11.flake = false;
   inputs.src-serializetools-v1_11.owner = "JeffersonLab";
-  inputs.src-serializetools-v1_11.ref   = "refs/tags/v1.11";
+  inputs.src-serializetools-v1_11.ref   = "v1_11";
   inputs.src-serializetools-v1_11.repo  = "serializetools";
   inputs.src-serializetools-v1_11.type  = "github";
   

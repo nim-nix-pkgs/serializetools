@@ -1,5 +1,5 @@
 {
-  description = ''Support for serialization of objects'';
+  description = '' Support for serialization of objects'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
@@ -9,7 +9,7 @@
   
   inputs.src-serializetools-v1_0_0.flake = false;
   inputs.src-serializetools-v1_0_0.owner = "JeffersonLab";
-  inputs.src-serializetools-v1_0_0.ref   = "refs/tags/v1.0.0";
+  inputs.src-serializetools-v1_0_0.ref   = "v1_0_0";
   inputs.src-serializetools-v1_0_0.repo  = "serializetools";
   inputs.src-serializetools-v1_0_0.type  = "github";
   
